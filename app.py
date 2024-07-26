@@ -82,7 +82,7 @@ st.markdown("""
         background-color: #e8c2ca
     }
     </style>
-    <h3>Masukkan Data Pelanggan</h3>
+    <h3>Enter Customer Data</h3>
 """, unsafe_allow_html=True)
 
 # Input pengguna
