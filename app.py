@@ -42,6 +42,8 @@ def preprocess_input(user_input):
     processed_input = pd.DataFrame(processed_input)
     processed_input[numeric_features] = scaler.transform(processed_input[numeric_features])
     return processed_input
+# Pemetaan hasil prediksi
+prediction_mapping = {0: "Negative", 1: "Positive"}
 # CSS for styling
 st.markdown("""
     <style>
