@@ -54,10 +54,10 @@ st.markdown("""
         margin-bottom: 25px;
     }
     h3 {
-        color: #4b4b4b;
+        color: #735d78;
     }
     .stButton>button {
-        background-color: #4b4b4b;
+        background-color: #735d78;
         color: black;
         padding: 10px 24px;
         border: none;
@@ -65,7 +65,7 @@ st.markdown("""
         cursor: pointer;
     }
     .stButton>button:hover {
-        background-color: #4b4b4b;
+        background-color: #735d78;
     }
     .stNumberInput, .stSelectbox {
         margin-bottom: 20px;
