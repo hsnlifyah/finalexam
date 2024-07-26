@@ -74,12 +74,12 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Antarmuka Streamlit
-st.title("Prediksi Feedback Pelanggan Online Food")
+st.title("Online Food Service Customer Prediction")
 
 st.markdown("""
     <style>
     .main {
-        background-color: #87CEEB;
+        background-color: #e8c2ca;
     }
     </style>
     <h3>Masukkan Data Pelanggan</h3>
